@@ -1,0 +1,10 @@
+[project]
+name = "inca"
+version = "0.1.0"
+description = "In-context Continual Learning Assisted by an External Continual Learner"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.2.1",
+    "sentence-transformers>=3.3.1",
+]
